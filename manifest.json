@@ -14,7 +14,7 @@
     {
       "name" : "fav",
       "type" : "text",
-      "required" : false
+      "required" : true
     }
   ]   
 }
